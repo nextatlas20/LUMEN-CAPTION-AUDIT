@@ -1,0 +1,18 @@
+cue_id,segment_id,in_second,out_second,text,review_state
+CU-001,SG-A,0,60,Welcome to the programme,APPROVED
+CU-002,SG-A,60,118,Headlines continue,APPROVED
+CU-003,SG-A,10,20,Speaker label check,DRAFT
+CU-004,SG-B,120,220,Rain moves east,APPROVED
+CU-005,SG-B,210,295,Temperatures overnight,APPROVED
+CU-006,SG-C,300,350,Host question,APPROVED
+CU-007,SG-C,360,400,Guest response,APPROVED
+CU-008,SG-C,410,450,Closing answer,APPROVED
+CU-009,SG-C,450,470,Name spelling review,DRAFT
+CU-014,SG-D,480,510,Production credits,APPROVED
+CU-015,SG-D,510,540,Copyright notice,APPROVED
+CU-016,SG-E,540,580,Music identification,DRAFT
+CU-010,SG-Z,0,10,Unknown segment,APPROVED
+CU-011,SG-A,90,80,Backwards cue,APPROVED
+CU-012,SG-A,20,30,Unexpected column,APPROVED,noise
+CU-013,SG-C,320,330,Duplicate first,APPROVED
+CU-013,SG-C,330,340,Duplicate second,APPROVED

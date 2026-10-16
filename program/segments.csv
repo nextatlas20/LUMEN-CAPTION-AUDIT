@@ -1,0 +1,6 @@
+segment_id,title,start_second,end_second,max_uncovered_seconds
+SG-A,Opening bulletin,0,120,5
+SG-B,Weather desk,120,300,10
+SG-C,Guest interview,300,480,15
+SG-D,Closing credits,480,540,0
+SG-E,Music interlude,540,600,60
