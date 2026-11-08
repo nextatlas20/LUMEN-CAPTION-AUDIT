@@ -1,0 +1,6 @@
+segment_id,title,duration_seconds,valid_cues,approved_cues,draft_cues,covered_seconds,uncovered_seconds,overlap_pairs,status
+SG-E,Music interlude,60,1,0,1,0,60,0,MISSING
+SG-B,Weather desk,180,2,2,0,175,5,1,COLLISION
+SG-C,Guest interview,180,4,3,1,130,50,0,GAPPED
+SG-A,Opening bulletin,120,3,2,1,118,2,0,READY
+SG-D,Closing credits,60,2,2,0,60,0,0,READY
